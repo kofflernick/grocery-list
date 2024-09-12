@@ -8,5 +8,8 @@
     "start": "node index.js"
   },
   "author": "nick k",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
 }
