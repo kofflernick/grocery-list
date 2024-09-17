@@ -1,0 +1,12 @@
+[
+  {
+    "name": "eggs",
+    "price": "2.99",
+    "purchased": false
+  },
+  {
+    "name": "milk",
+    "price": "2.99",
+    "purchased": false
+  }
+]

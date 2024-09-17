@@ -1,0 +1,13 @@
+2024-09-15T14:11:05.653Z [error]: Failed to remove item: Invalid index = NaN
+2024-09-15T14:11:20.822Z [error]: Failed to remove item: Invalid index = 1
+2024-09-15T14:11:29.243Z [error]: Failed to remove item: Invalid index = 0
+2024-09-15T14:11:44.240Z [error]: Failed to remove item: Invalid index = 2
+2024-09-15T14:11:48.306Z [error]: Failed to remove item: Invalid index = 3
+2024-09-15T14:11:52.739Z [error]: Failed to remove item: Invalid index = 4
+2024-09-15T14:12:02.323Z [error]: Failed to remove item: Invalid index = -1
+2024-09-15T14:13:11.727Z [error]: Failed to remove item: Invalid index = NaN
+2024-09-15T14:13:20.709Z [error]: Failed to remove item: Invalid index = NaN
+2024-09-15T14:13:23.512Z [error]: Failed to remove item: Invalid index = NaN
+2024-09-15T16:14:24.397Z [error]: Failed to toggle purchase: Invalid index - 0
+2024-09-15T16:14:31.788Z [error]: Failed to toggle purchase: Invalid index - 0
+2024-09-15T16:14:40.368Z [error]: Failed to toggle purchase: Invalid index - 0

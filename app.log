@@ -1,0 +1,197 @@
+2024-09-15T06:27:19.488Z [info]: This is an info message
+2024-09-15T06:27:19.496Z [info]: Server is running on http://localhost:3000
+2024-09-15T06:27:31.243Z [info]: [GET /]
+2024-09-15T06:27:58.808Z [info]: [GET /]
+${timestamp} [${level}]: ${message}
+${timestamp} [${level}]: ${message}
+${timestamp} [${level}]: ${message}
+${timestamp} [${level}]: ${message}
+${timestamp} [${level}]: ${message}
+${timestamp} [${level}]: ${message}
+${timestamp} [${level}]: ${message}
+${timestamp} [${level}]: ${message}
+${timestamp} [${level}]: ${message}
+${timestamp} [${level}]: ${message}
+2024-09-15T13:44:06.368Z [info]: Server is running on http://localhost:3000
+2024-09-15T13:44:11.712Z [info]: ,items
+2024-09-15T13:51:26.340Z [info]: ,items
+2024-09-15T13:51:39.696Z [info]: Server is running on http://localhost:3000
+2024-09-15T13:51:41.109Z [info]: ,items
+2024-09-15T14:10:47.743Z [info]: ,items
+2024-09-15T14:11:05.647Z [info]: ,items,
+2024-09-15T14:11:05.653Z [error]: Failed to remove item: Invalid index = NaN
+2024-09-15T14:11:20.821Z [info]: ,items,1
+2024-09-15T14:11:20.822Z [error]: Failed to remove item: Invalid index = 1
+2024-09-15T14:11:29.243Z [info]: ,items,0
+2024-09-15T14:11:29.243Z [error]: Failed to remove item: Invalid index = 0
+2024-09-15T14:11:44.239Z [info]: ,items,2
+2024-09-15T14:11:44.240Z [error]: Failed to remove item: Invalid index = 2
+2024-09-15T14:11:48.305Z [info]: ,items,3
+2024-09-15T14:11:48.306Z [error]: Failed to remove item: Invalid index = 3
+2024-09-15T14:11:52.739Z [info]: ,items,4
+2024-09-15T14:11:52.739Z [error]: Failed to remove item: Invalid index = 4
+2024-09-15T14:12:02.323Z [info]: ,items,-1
+2024-09-15T14:12:02.323Z [error]: Failed to remove item: Invalid index = -1
+2024-09-15T14:13:11.727Z [info]: ,items,
+2024-09-15T14:13:11.727Z [error]: Failed to remove item: Invalid index = NaN
+2024-09-15T14:13:20.709Z [info]: ,items,
+2024-09-15T14:13:20.709Z [error]: Failed to remove item: Invalid index = NaN
+2024-09-15T14:13:23.512Z [info]: ,items,
+2024-09-15T14:13:23.512Z [error]: Failed to remove item: Invalid index = NaN
+2024-09-15T16:05:17.223Z [info]: Server is running on http://localhost:3000
+2024-09-15T16:05:38.782Z [info]: Server is running on http://localhost:3000
+2024-09-15T16:06:00.508Z [info]: Server is running on http://localhost:3000
+2024-09-15T16:06:07.053Z [info]: ,items,
+2024-09-15T16:06:15.217Z [info]: ,items,
+2024-09-15T16:07:17.505Z [info]: Server is running on http://localhost:3000
+2024-09-15T16:07:25.640Z [info]: ,items,
+2024-09-15T16:07:30.954Z [info]: ,items,
+2024-09-15T16:08:03.337Z [info]: Server is running on http://localhost:3000
+2024-09-15T16:08:06.653Z [info]: ,items,
+2024-09-15T16:08:30.814Z [info]: Server is running on http://localhost:3000
+2024-09-15T16:08:39.574Z [info]: ,items,
+2024-09-15T16:09:36.941Z [info]: Server is running on http://localhost:3000
+2024-09-15T16:09:55.138Z [info]: ,items,
+2024-09-15T16:10:03.602Z [info]: ,items,
+2024-09-15T16:12:32.702Z [info]: Server is running on http://localhost:3000
+2024-09-15T16:12:40.396Z [info]: ,items,
+2024-09-15T16:12:47.831Z [info]: ,items,
+2024-09-15T16:14:15.984Z [info]: Server is running on http://localhost:3000
+2024-09-15T16:14:24.397Z [info]: ,items,0
+2024-09-15T16:14:24.397Z [error]: Failed to toggle purchase: Invalid index - 0
+2024-09-15T16:14:31.788Z [info]: ,items,0
+2024-09-15T16:14:31.788Z [error]: Failed to toggle purchase: Invalid index - 0
+2024-09-15T16:14:40.368Z [info]: ,items,0
+2024-09-15T16:14:40.368Z [error]: Failed to toggle purchase: Invalid index - 0
+2024-09-15T16:17:05.603Z [info]: Server is running on http://localhost:3000
+2024-09-15T16:17:09.764Z [info]: ,items,0
+2024-09-15T16:17:30.210Z [info]: ,items,
+2024-09-15T16:17:30.211Z [info]: Shopping list updated in data.json
+2024-09-15T16:17:30.211Z [info]: Added Item: eggs
+2024-09-15T16:17:45.293Z [info]: ,items,
+2024-09-15T16:17:45.294Z [info]: Shopping list updated in data.json
+2024-09-15T16:17:45.294Z [info]: Added Item: bread
+2024-09-15T16:17:55.303Z [info]: ,items,0
+2024-09-15T16:17:55.304Z [info]: Shopping list updated in data.json
+2024-09-15T16:17:55.304Z [info]: Toggle Purchased: Milk: true
+2024-09-15T16:17:58.934Z [info]: ,items,2
+2024-09-15T16:17:58.935Z [info]: Shopping list updated in data.json
+2024-09-15T16:17:58.935Z [info]: Toggle Purchased: bread: true
+2024-09-15T16:18:04.710Z [info]: ,items,1
+2024-09-15T16:18:04.711Z [info]: Shopping list updated in data.json
+2024-09-15T16:18:04.711Z [info]: Toggle Purchased: eggs: true
+2024-09-15T16:18:17.035Z [info]: ,items,0
+2024-09-15T16:18:17.036Z [info]: Shopping list updated in data.json
+2024-09-15T16:18:17.036Z [info]: Removed Item: Milk
+2024-09-15T16:49:02.716Z [info]: Server is running on http://localhost:3000
+2024-09-15T16:49:15.949Z [info]: ,items,
+2024-09-15T16:49:52.330Z [info]: ,items,
+2024-09-15T16:49:52.332Z [info]: Shopping list updated in data.json
+2024-09-15T16:49:52.332Z [info]: Added Item: eggs
+2024-09-15T16:50:02.815Z [info]: ,items,
+2024-09-15T16:50:02.816Z [info]: Shopping list updated in data.json
+2024-09-15T16:50:02.817Z [info]: Added Item: bread
+2024-09-15T16:50:09.156Z [info]: ,items,
+2024-09-15T16:50:09.157Z [info]: Shopping list updated in data.json
+2024-09-15T16:50:09.157Z [info]: Added Item: milk
+2024-09-15T16:50:20.250Z [info]: ,items,1
+2024-09-15T16:50:20.251Z [info]: Shopping list updated in data.json
+2024-09-15T16:50:20.251Z [info]: Removed Item: bread
+2024-09-17T16:57:13.557Z [info]: Server is running on http://localhost:3000
+2024-09-17T16:57:49.490Z [info]: Server is running on http://localhost:3000
+2024-09-17T16:57:59.615Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:01:33.828Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:02:08.770Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:04:19.433Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:06:05.577Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:06:33.958Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:07:57.971Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:08:13.305Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:08:35.433Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:08:47.690Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:09:01.566Z [info]: ,items,
+2024-09-17T17:14:18.445Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:14:41.610Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:15:05.016Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:15:34.761Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:17:23.637Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:18:11.465Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:19:12.021Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:19:24.678Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:19:46.532Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:20:07.445Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:20:17.452Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:20:27.193Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:20:43.672Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:20:59.146Z [info]: Server is running on http://localhost:3000
+2024-09-17T17:35:59.007Z [info]: Server is running on http://localhost:3000
+2024-09-17T18:26:30.598Z [info]: Server is running on http://localhost:3000
+2024-09-17T18:27:43.791Z [info]: Server is running on http://localhost:3000
+2024-09-17T18:28:24.602Z [info]: Server is running on http://localhost:3000
+2024-09-17T18:29:30.447Z [info]: Server is running on http://localhost:3000
+2024-09-17T18:29:43.775Z [info]: Server is running on http://localhost:3000
+2024-09-17T18:30:15.742Z [info]: Server is running on http://localhost:3000
+2024-09-17T18:31:02.193Z [info]: Server is running on http://localhost:3000
+2024-09-17T18:42:02.272Z [info]: Server is running on http://localhost:3000
+2024-09-17T18:42:12.418Z [info]: ,items,
+2024-09-17T18:52:06.397Z [info]: Server is running on http://localhost:3000
+2024-09-17T18:52:44.958Z [info]: Server is running on http://localhost:3000
+2024-09-17T18:53:13.839Z [info]: Server is running on http://localhost:3000
+2024-09-17T18:53:26.967Z [info]: ,items,
+2024-09-17T18:54:03.165Z [info]: ,items,
+2024-09-17T18:55:12.456Z [info]: Server is running on http://localhost:3000
+2024-09-17T18:55:24.607Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:03:26.781Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:04:34.723Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:04:47.276Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:06:15.806Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:08:11.187Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:08:38.092Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:15:02.331Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:15:39.195Z [info]: ,items,
+2024-09-17T19:16:04.183Z [info]: ,items
+2024-09-17T19:16:35.053Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:16:39.649Z [info]: ,items
+2024-09-17T19:17:23.483Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:17:26.269Z [info]: ,items
+2024-09-17T19:21:45.937Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:21:54.393Z [info]: ,items
+2024-09-17T19:22:55.576Z [info]: ,items
+2024-09-17T19:43:37.694Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:43:41.342Z [info]: ,items
+2024-09-17T19:45:00.102Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:45:04.782Z [info]: ,items
+2024-09-17T19:47:29.802Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:47:33.854Z [info]: ,items
+2024-09-17T19:47:50.673Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:47:54.408Z [info]: ,items
+2024-09-17T19:53:10.651Z [info]: Server is running on http://localhost:3000
+2024-09-17T19:53:14.726Z [info]: ,items
+2024-09-17T20:03:26.296Z [info]: ,items
+2024-09-17T20:03:27.665Z [info]: ,items
+2024-09-17T20:03:28.590Z [info]: ,items
+2024-09-17T20:03:29.456Z [info]: ,items
+2024-09-17T20:04:03.179Z [info]: Server is running on http://localhost:3000
+2024-09-17T20:04:06.460Z [info]: ,items
+2024-09-17T20:06:08.360Z [info]: Server is running on http://localhost:3000
+2024-09-17T20:06:17.220Z [info]: ,items
+2024-09-17T20:06:44.598Z [info]: Server is running on http://localhost:3000
+2024-09-17T20:06:47.803Z [info]: ,items
+2024-09-17T20:07:22.800Z [info]: Server is running on http://localhost:3000
+2024-09-17T20:07:26.230Z [info]: ,items
+2024-09-17T20:12:56.735Z [info]: Server is running on http://localhost:3000
+2024-09-17T20:13:00.492Z [info]: ,items
+2024-09-17T20:14:02.150Z [info]: ,items
+2024-09-17T20:14:28.149Z [info]: Server is running on http://localhost:3000
+2024-09-17T20:14:30.155Z [info]: ,items
+2024-09-17T20:14:38.084Z [info]: ,items
+2024-09-17T20:44:09.323Z [info]: Server is running on http://localhost:3000
+2024-09-17T20:44:11.090Z [info]: ,items
+2024-09-17T21:26:47.533Z [info]: Server is running on http://localhost:3000
+2024-09-17T21:26:51.898Z [info]: ,items
+2024-09-17T21:26:57.502Z [info]: ,items
+2024-09-17T21:27:12.729Z [info]: ,items
+2024-09-17T21:27:21.465Z [info]: Server is running on http://localhost:3000
+2024-09-17T21:27:23.840Z [info]: ,items
+2024-09-17T21:56:28.781Z [info]: Server is running on http://localhost:3000
+2024-09-17T21:56:34.804Z [info]: ,items
