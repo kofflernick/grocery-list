@@ -12,6 +12,7 @@ const {
   GetCommand,
   ScanCommand,
   PutCommand,
+  UpdateCommand,
 } = require("@aws-sdk/lib-dynamodb")
 const client = new DynamoDBClient({ region: "us-east-1" })
 const documentClient = DynamoDBDocumentClient.from(client)
@@ -40,6 +41,35 @@ async function readDataBase() {
     return data.Items
   } catch (err) {
     console.error("error fetching items", err)
+  }
+}
+
+async function createItem(Item) {
+  const command = new PutCommand({
+    TableName: "grocery_list",
+    Item,
+  })
+  try {
+    const data = await documentClient.send(command)
+    return data
+  } catch (err) {
+    console.log("failed to create item at dao level", err)
+  }
+}
+
+async function togglePurchasedItem(Key) {
+  const command = new UpdateCommand({
+    TableName: "grocery_list",
+    Key: { Key },
+    UpdateExpression: "SET purchased = NOT purchased",
+    ReturnValues: "ALL_NEW",
+  })
+
+  try {
+    const data = await documentClient.send(command)
+    return data.Attributes
+  } catch (err) {
+    console.error("failled to toggle the purchased field:", err)
   }
 }
 
@@ -74,4 +104,6 @@ module.exports = {
   writeShoppingList,
   fetchItem,
   readDataBase,
+  createItem,
+  togglePurchasedItem,
 }
